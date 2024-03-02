@@ -1,0 +1,14 @@
+mkdir sample
+sudo su
+cd ..
+su ec2-user
+sudo su
+cd .
+mkdir sample
+cd ..
+cd .
+cd ec2-user
+cd ..
+su ec2-user
+su ec2-user
+cd ..
